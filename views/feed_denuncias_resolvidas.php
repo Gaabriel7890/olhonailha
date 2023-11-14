@@ -20,7 +20,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/olhonailha/templates/_cabecalho.php';
     <?= $p['titulo'] ?>
     <?= $p['local_denuncia'] ?>
     <?= $p['descricao'] ?>
-    <?= $p['foto_denuncia'] ?>
+    <?= $p['foto_denuncia'] ?>asdasd
 
 
 
